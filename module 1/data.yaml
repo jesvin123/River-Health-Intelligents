@@ -1,0 +1,12 @@
+# Path to the yolo_dataset folder produced by 03_train_val_split.py
+path: D:\bootcamp\yolo_dataset
+train: images/train
+val: images/val
+
+names:
+  0: Plastic
+  1: Metal
+  2: Paper_Cardboard
+  3: Glass
+  4: Organic_Other
+  5: Cigarette
